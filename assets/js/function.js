@@ -241,7 +241,7 @@ function creative_magazine(){
 ////////////////// Motion Design Part //////////////////
 
 function motion_logo(){
-    $("#motionDesign_IMG").attr('src', 'assets/img/service/motionDesign/Logo.mp4');
+    $("#motionDesign_IMG").attr('src', 'assets/img/service/motionDesign/Logo_remove.mp4');
     $("#motion-logo").slideDown();
     $("#motion-text").slideUp();
     $("#motion-3d").slideUp();
@@ -255,7 +255,7 @@ function motion_logo(){
 }
 
 function motion_text(){
-    $("#motionDesign_IMG").attr('src', 'assets/img/service/motionDesign/Text Animation.mp4');
+    $("#motionDesign_IMG").attr('src', 'assets/img/service/motionDesign/Text Animation_remove.mp4');
     $("#motion-logo").slideUp();
     $("#motion-text").slideDown();
     $("#motion-3d").slideUp();
@@ -268,7 +268,7 @@ function motion_text(){
 }
 
 function motion_3d(){
-    $("#motionDesign_IMG").attr('src', 'assets/img/service/motionDesign/3D Product _Visulation.mp4');
+    $("#motionDesign_IMG").attr('src', 'assets/img/service/motionDesign/3D Product _Visulation_remove.mp4');
     $("#motion-logo").slideUp();
     $("#motion-text").slideUp();
     $("#motion-3d").slideDown();
